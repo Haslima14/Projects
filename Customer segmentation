@@ -1,3 +1,29 @@
-## code 
-[View my kaggle notebook](https://www.kaggle.com/code/haslimafarveen/customer-segmentation/edit)
+🛍️ Customer Segmentation using K-Means
 
+ 📖 Overview
+This project uses K-Means clustering to group customers
+
+ 📂 Dataset
+- Source: Kaggle
+- Features: Age, Income, Spending Score
+
+⚙️ Technologies
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+🔍 Steps
+1. Data cleaning
+2. Feature selection
+3. Elbow method
+4. K-Means clustering
+
+ 📊 Results
+
+
+💡 Business Insights
+- High income + high spending → target premium offers
+- Low income → discount strategy 
+✅ Conclusion
+Customer segmentation helps businesses
