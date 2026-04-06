@@ -1,7 +1,9 @@
-🛍️ Customer Segmentation using K-Means
+🛍️ Customer Segmentation using Machine learning 
 
  📖 Overview
-This project uses K-Means clustering to group customers
+This project focuses on customer segmentation using machine learning techniques. 
+The dataset was preprocessed by handling missing values, transforming date features, and creating new features such as total spending and total campaign acceptance.
+Exploratory Data Analysis (EDA) was performed using various visualizations to understand customer behavior and relationships between features.
 
  📂 Dataset
 - Source: Kaggle
@@ -19,11 +21,10 @@ This project uses K-Means clustering to group customers
 3. Elbow method
 4. K-Means clustering
 
- 📊 Results
-
-
 💡 Business Insights
 - High income + high spending → target premium offers
 - Low income → discount strategy 
+
 ✅ Conclusion
-Customer segmentation helps businesses
+Customer segmentation can help businesses understand their customers better and make data-driven decisions,
+such as targeting high-value customers, improving marketing strategies, and increasing overall customer satisfaction.
