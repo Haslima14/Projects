@@ -16,10 +16,10 @@ Exploratory Data Analysis (EDA) was performed using various visualizations to un
 - Scikit-learn
 
 ## Project Steps :
-1. Data cleaning
-2. Feature selection
-3. Elbow method
-4. K-Means clustering
+ - Data cleanin
+ - Feature selection
+ - Elbow method
+ - K-Means clustering
 
  ## Business Insights :
 - High income + high spending → target premium offers
